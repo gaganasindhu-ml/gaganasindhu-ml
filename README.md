@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sindhu 👋</h1>
+<h1 align="center">Hi, I'm Gaganasindhu 👋</h1>
 
 <h3 align="center">Data Scientist · Machine Learning Engineer · Streamlit Developer</h3>
 
@@ -56,5 +56,5 @@ I'm passionate about solving real problems with ML. Feel free to explore my proj
 
 <p align="left">
   <a href="https://linkedin.com/in/sindhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sindhu@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sindhuhadagali912@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
