@@ -41,14 +41,6 @@ ML model that classifies resumes into categories using NLP preprocessing.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sindhu&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sindhu&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
-
----
 
 ## 📬 Let's Connect
 
