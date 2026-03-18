@@ -1,10 +1,11 @@
 <h1 align="center">Hi, I'm Gaganasindhu 👋</h1>
 
-<h3 align="center">Data Scientist · Machine Learning Engineer · Streamlit Developer</h3>
+<h3 align="center">ML Engineer · Building AI for Billion Dollar Problems · Streamlit Developer</h3>
 
 <p align="center">
-  I specialize in building <strong>end-to-end machine learning projects</strong> — from data preprocessing and feature engineering to model training and deployment.<br/>
-  I focus on writing clean, simple, and clear ML workflows.
+  I find <strong>billion dollar unsolved problems</strong> and build ML solutions for them.<br/>
+  Currently building <strong>AI compliance automation for the US construction industry</strong> — a $299B problem validated with Project Administrators at Sundt Construction and Whiting-Turner.<br/>
+  Open to <strong>Data Scientist and ML Engineer roles</strong> in fintech and analytics.
 </p>
 
 ---
@@ -14,7 +15,7 @@
 | Category | Tools |
 |---|---|
 | **Languages** | Python, SQL |
-| **ML** | Scikit-Learn, Feature Engineering, Model Tuning |
+| **ML** | Scikit-Learn, XGBoost, SHAP Explainability, Feature Engineering, Model Tuning |
 | **Data** | Pandas, NumPy |
 | **Deployment & Apps** | Streamlit |
 | **Tools** | GitHub, Jupyter Notebook |
@@ -23,30 +24,41 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Chainsight](https://github.com/Sindhu/chainsight)
-End-to-end ML pipeline including EDA, feature engineering, and model comparison.  
+### 🏥 [Healthcare Insurance Fraud Detection](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection)
+Detecting fraudulent insurance claims across 8 merged datasets using XGBoost with SHAP explainability.
+**Problem:** Healthcare fraud costs the US $1B+ annually.
+**Focus:** Multi-dataset merging, provider behavior analysis, interpretable ML.
+
+### 🏗️ Construction Compliance Automation *(In Development)*
+AI tool that automates compliance document collection, organization, and tracking across subcontractor tiers for US construction GCs.
+**Problem:** $299B lost annually to payment delays — 45-60 compliance documents per project managed manually.
+**Validated with:** Project Administrators at Sundt Construction and Whiting-Turner.
+
+### 🔹 [Chainsight](https://github.com/gaganasindhu-ml/Chainsight)
+End-to-end ML pipeline predicting global supply chain delays using real-world factors.
 **Focus:** Clean workflow + strong preprocessing.
 
-### 🔹 [Customer Churn Prediction – Telecom](https://github.com/Sindhu/customer-churn)
-Churn classification with clear EDA, feature engineering, and evaluation metrics.  
+### 🔹 [Customer Churn Prediction – Telecom](https://github.com/gaganasindhu-ml/customer_churn_telecom)
+Churn classification with clear EDA, feature engineering, and evaluation metrics.
 **Focus:** Business-focused ML.
 
-### 🔹 [House Rent Prediction](https://github.com/Sindhu/house-rent-prediction)
-Regression model predicting rental prices using structured data and feature transformations.  
+### 🔹 [House Rent Prediction](https://github.com/gaganasindhu-ml/House-rent-prediction)
+Regression model predicting rental prices using structured data and feature transformations.
 **Focus:** Model comparison + interpretable results.
 
-### 🔹 [Resume Classification](https://github.com/Sindhu/resume-classification)
-ML model that classifies resumes into categories using NLP preprocessing.  
+### 🔹 [Resume Classification](https://github.com/gaganasindhu-ml/resume-_classification-)
+ML model that classifies resumes into categories using NLP preprocessing.
 **Focus:** Text cleaning + feature extraction.
 
 ---
 
-
 ## 📬 Let's Connect
 
-I'm passionate about solving real problems with ML. Feel free to explore my projects or reach out!
+I find billion dollar problems and build ML solutions for them.
+Currently building AI compliance automation for US construction — $299B problem validated with top US GCs.
+Open to Data Scientist and ML Engineer roles in fintech and analytics.
 
 <p align="left">
   <a href="https://linkedin.com/in/sindhu"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sindhuhadagali912@gamil.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sindhuhadagali44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
