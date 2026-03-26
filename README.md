@@ -62,7 +62,7 @@ Open to Data Scientist and ML Engineer roles in fintech and analytics.
   <a href="https://www.linkedin.com/in/gaganasindhu-hadagali-367163372/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sindhuhadagali912@gmail.com">
+  <a href="sindhuhadagali912@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
