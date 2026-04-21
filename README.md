@@ -4,7 +4,7 @@
 
 <p align="center">
   I find <strong>billion dollar unsolved problems</strong> and build ML solutions for them.<br/>
-  Currently building <strong>Open to <strong>Data Scientist and ML Engineer roles</strong>
+  <strong>Open to <strong>Data Scientist and ML Engineer roles</strong>
 </p>
 
 ---
