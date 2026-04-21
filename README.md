@@ -4,8 +4,7 @@
 
 <p align="center">
   I find <strong>billion dollar unsolved problems</strong> and build ML solutions for them.<br/>
-  Currently building <strong>AI compliance automation for the US construction industry</strong> — a $299B problem validated with Project Administrators at Sundt Construction and Whiting-Turner.<br/>
-  Open to <strong>Data Scientist and ML Engineer roles</strong> in fintech and analytics.
+  Currently building <strong>Open to <strong>Data Scientist and ML Engineer roles</strong>
 </p>
 
 ---
@@ -28,11 +27,6 @@
 Detecting fraudulent insurance claims across 8 merged datasets using XGBoost with SHAP explainability.
 **Problem:** Healthcare fraud costs the US $1B+ annually.
 **Focus:** Multi-dataset merging, provider behavior analysis, interpretable ML.
-
-### 🏗️ Construction Compliance Automation *(In Development)*
-AI tool that automates compliance document collection, organization, and tracking across subcontractor tiers for US construction GCs.
-**Problem:** $299B lost annually to payment delays — 45-60 compliance documents per project managed manually.
-**Validated with:** Project Administrators at Sundt Construction and Whiting-Turner.
 
 ### 🔹 [Chainsight](https://github.com/gaganasindhu-ml/Chainsight)
 End-to-end ML pipeline predicting global supply chain delays using real-world factors.
