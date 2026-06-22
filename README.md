@@ -2,7 +2,7 @@
 <h3 align="center">AI / ML Engineer · Building ClearDraw · Bengaluru, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=540&lines=Building+ClearDraw+%E2%80%94+AI+for+construction+compliance;LLM+apps+%7C+RAG+%7C+XGBoost+%7C+SHAP;I+ship+products%2C+not+notebooks" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+ClearDraw;AI+for+construction+compliance;LLM+apps+%7C+XGBoost+%7C+SHAP;I+ship+products%2C+not+notebooks" alt="Typing SVG" />
 </p>
 
 ---
