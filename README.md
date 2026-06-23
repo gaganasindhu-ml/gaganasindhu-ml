@@ -33,7 +33,7 @@
 
 | Project | Problem | Tech | Result |
 |---|---|---|---|
-| 🛡️ [**FraudShield**](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection) | Healthcare provider fraud (9:1 class imbalance) | XGBoost · SMOTE · SHAP | **0.94 ROC-AUC** · 17 engineered features · SHAP explainability |
+| 🛡️ [**FraudShield**](https://github.com/gaganasindhu-ml/Healthcare_fraud_detection) | Health Insurance Fraud Detection (9:1 class imbalance) | XGBoost · SMOTE · SHAP | **0.94 ROC-AUC** · 17 engineered features · SHAP explainability |
 | 🔗 [**ChainSight**](https://github.com/gaganasindhu-ml/Chainsight) | Supply-chain delay prediction | 5 models benchmarked · weather + geopolitical features | **0.94 ROC-AUC** |
 | 📞 [**Churn Shield**](https://github.com/gaganasindhu-ml/customer_churn_telecom) | Telecom churn drivers | XGBoost · feature engineering | Business-focused EDA · churn drivers identified |
 
