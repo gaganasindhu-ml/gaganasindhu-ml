@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gaganasindhu 👋</h1>
-<h3 align="center">Data Scientist · ML Engineer · Bengaluru, India</h3>
+<h3 align="center">Data Scientist · AI/ML Engineer · Bengaluru, India</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Predictive+maintenance%2C+fraud+%26+risk+modeling;XGBoost+%2B+SHAP+%2B+deployed+APIs;LLM+apps%2C+RAG+%26+semantic+search;I+ship+models+to+users%2C+not+notebooks" alt="Typing SVG" />
